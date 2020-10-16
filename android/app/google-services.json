@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970285841108",
+    "firebase_url": "https://student-attendance-marking.firebaseio.com",
+    "project_id": "student-attendance-marking",
+    "storage_bucket": "student-attendance-marking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970285841108:android:59a64e236a5f45ae9c1941",
+        "android_client_info": {
+          "package_name": "com.example.student_attendence_marking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970285841108-lkif5nm95pdu9qim4ksp80849lefr9el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyj3kq0Xvss0Fv2NPJ1uESGbUIvSj52g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970285841108-lkif5nm95pdu9qim4ksp80849lefr9el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
